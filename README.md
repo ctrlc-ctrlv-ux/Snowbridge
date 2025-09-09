@@ -13,7 +13,7 @@
 
 Snowbridge is a boutique firm formed by passionate engineers who specialize in cloud computing, big data engineering, and analytics.
 
-We build bridges for businesses by connecting the data silos formed due to massive growth in data volumes. Our small team of dedicated professionals focuses on delivering innovative solutions that help organizations unlock the full potential of their data.
+At Snowbridge, we transform fragmented data landscapes into seamless, strategic assets. Leveraging our deep expertise and innovative mindset, our team empowers organizations to unify their information, eliminate silos, and unlock meaningful business value from their data.
 
 ## Our Mission
 
