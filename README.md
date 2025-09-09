@@ -1,10 +1,9 @@
 # Snowbridge
-
 🌊 **Transforming Data Into Success** 🌊
 
 ## 🚀 View Live Demo
 
-**[🔗 **View Project Demo** - Experience Snowbridge Live](https://snowbridge-newvite-react.vercel.app/)**
+**[🔗 **View Project Demo** - Experience Snowbridge Live](https://snowbridge.vercel.app/)**
 
 *Click the link above to explore our interactive demonstration and see Snowbridge in action!*
 
@@ -30,7 +29,7 @@ We build pathways to success by harnessing the cloud's full potential. Snowbridg
 
 ## 🎯 Ready to Get Started?
 
-**[👆 **Try Our Live Demo Now**](https://snowbridge-newvite-react.vercel.app/)**
+**[👆 **Try Our Live Demo Now**](https://snowbridge.vercel.app/)**
 
 Experience firsthand how Snowbridge can transform your data infrastructure and unlock new possibilities for your business.
 
@@ -61,15 +60,15 @@ Snowbridge/
 
 ## Features
 
-🔧 **Mobile-Optimized Design**
+### 🔧 Mobile-Optimized Design
 - Responsive layout that works seamlessly across all devices
 - Touch-friendly navigation and interactions
 
-📊 **Data-Driven Content**
+### 📊 Data-Driven Content
 - Showcase of analytics capabilities
 - Client success stories and testimonials
 
-🎨 **Modern UI/UX**
+### 🎨 Modern UI/UX
 - Clean, professional design
 - Intuitive user experience
 
@@ -86,8 +85,8 @@ We welcome contributions! Feel free to:
 
 Ready to bridge your data gaps? Let's connect and discuss how Snowbridge can accelerate your data transformation journey.
 
-**[🌐 **Explore Our Live Demo**](https://snowbridge-newvite-react.vercel.app/)**
+**[🌐 Explore Our Live Demo](https://snowbridge.vercel.app/)**
 
 ---
 
-*© 2025 Snowbridge. All rights reserved. Building bridges to your data success.*
+© 2025 Snowbridge. All rights reserved. Building bridges to your data success.
